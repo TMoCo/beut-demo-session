@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "1.2.3",
+  "dependencies": {
+    "utils": "0.1.0",
+    "components": "0.1.0",
+    "api": "0.1.0"
+  }
+}
